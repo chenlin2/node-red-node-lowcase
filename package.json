@@ -1,0 +1,13 @@
+{
+    "name"         : "node-red-contrib-lowcase",
+    "version"      : "1.0.3",
+    "description"  : "A sample lowcase node for node-red",
+    "dependencies": {
+    },
+    "keywords": [ "node-red" ],
+    "node-red"     : {
+        "nodes": {
+            "lower-case": "lower-case/lower-case.js"
+        }
+    }
+}
